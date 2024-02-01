@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Workout Planner</string>
+    <string name="nav_drawer_menu">Menu</string>
+    <string name="workout_plan">Workout Plan</string>
+    <string name="exercises">Exercises</string>
+    <string name="add_exercise_button">Add exercise button</string>
+    <string name="drop_set_label_text">Drop Set</string>
+    <string name="action_icon_description">Action Icon</string>
+    <string name="exercise_name_placeholder_text">Exercise name</string>
+    <string name="exercise_type_placeholder_text">Exercise type</string>
+    <string name="number_of_sets_placeholder_text">Number of sets</string>
+    <string name="number_of_reps_placeholder_text">Number of reps</string>
+    <string name="weight_kg_placeholder_text">Weight [kg]</string>
+    <string name="drop_set_placeholder_text">Drop Set</string>
+    <string name="weight_for_set_two_placeholder_text">Weight for set 2 [kg]</string>
+    <string name="confirm_button_text">Confirm</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="weight_for_set_three_placeholder_text">Weight for set 3 [kg]</string>
+    <string name="no_exercises_text">No exercises!</string>
+    <string name="workout_dropdown_description">Workout dropdown menu</string>
+    <string name="session_type_template">%1$s workout</string>
+    <string name="workout_type_selected_toast_template">%1$s workout selected</string>
+
+</resources>
